@@ -32,9 +32,3 @@ Glass apps that won't be converted
 GlassSound.apk: installs and runs without modification. Get a copy from any XE5 system dump. Not essential for Glass; Glass will just run muted without it.
 
 GlassPhotosphere.apk: As stated by http://www.studio8apps.com/running-google-glass-photo-sphere-viewer-on-android-phone/ , runs (for the easter egg) without modification. Again, any dumped copy from a XE5 should run fine. Not essential to Glass.
-
-Credits/License
-
-While I don't have permission from the Glass team to post these, Google Glass is a device for explorers, thus, I believe it agrees with the spirit of discovery to post these APKs.
-
-The APK was pulled from Android Police's dump at http://www.androidpolice.com/2013/05/08/download-google-glass-xe4-and-xe5-system-dumps-please-do-something-cool-with-these/
